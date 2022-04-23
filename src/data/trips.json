@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "pais for website",
+        "name": "Lake Nexus",
+        "button": "View destination"
+    },
+    {
+        "img": "../assets/images/travel-2.jpg",
+        "alt": "france for website",
+        "name": "Eiffel Tower",
+        "button": "View destination"
+    },
+    {
+        "img": "../assets/images/travel-3.jpg",
+        "alt": "germnay for website",
+        "name": "Paris",
+        "button": "View destination"
+    },
+    {
+        "img": "../assets/images/travel-4.jpg",
+        "alt": "usa for website",
+        "name": "Spain",
+        "button": "View destination"
+    }
+]
